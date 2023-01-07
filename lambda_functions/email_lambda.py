@@ -1,6 +1,6 @@
 import boto3
 
-VERIFIED_EMAIL = 'ksawery.lejczak@gmail.com'
+VERIFIED_EMAIL = 'example@gmail.com'
 
 ses = boto3.client('ses')
 
